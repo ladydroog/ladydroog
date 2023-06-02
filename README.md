@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ladydroog
+- 👋 Hi, I’m beccintech
 - 👀 I’m interested in ... all things sysadmin, configuring, customizing, automating
-- 🌱 I’m currently learning ... ServiceNow and JavaScript
+- 🌱 I’m currently learning ... ServiceNow, JavaScript, CSS, and HTML
 - 💞️ I’m looking to collaborate on ... JavaScript beginner projects
 - 📫 How to reach me ... 
 
